@@ -4,3 +4,8 @@
 # jupyter
 *.ipynb_checkpoints
 
+# most data will be too sensitive,
+# e.g. people's names and emails,
+# to just add to a public repository
+*.csv
+
