@@ -8,9 +8,9 @@ Open Courses) platform and build statistics on participants of the course.
 Notably statistics on the attendance of the course and the confidence of
 participants in applying the knowledge in the material.
 
-The main analysis builds a data model which can be fit onto new datasets.
-The `mooc.ipynb` file contains the most throughout analysis and a complete data
-model.  Construction of the notebook is divided into three parts:
+The main analysis builds a data model which can be fit onto new datasets.  The
+`mooc-confidence-fl.ipynb` file contains the most throughout analysis and a
+complete data model.  Construction of the notebook is divided into three parts:
 
 1. Data Model
 2. General Analysis
